@@ -1,0 +1,11 @@
+<?xml version ="1.0"?><!--  comment  Cntr+Shift+/-->
+<list>
+    <user id="1" psps="3">
+        <name>Vasya</name>
+        <age>27</age>
+    </user>
+    <user id="2">
+        <name>Petya</name>
+        <age>25</age>
+    </user>
+</list>
